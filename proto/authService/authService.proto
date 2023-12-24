@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package auth;
 
-option  go_package = "nikPuz.auth.v1;auth";
+option  go_package = "nikPuz.auth.v1;authv1";
 
 service Auth {
   // Register registers a new user.
